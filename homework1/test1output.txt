@@ -1,0 +1,6 @@
+Code run by Brad Perfect
+Environment variable UWHPSC is /home/uwhpsc/bperfect/AMATH583/uwhpsc
+Environment variable MYHPSC is /home/uwhpsc/bperfect/AMATH583/uwhpsc/bperfect583
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok

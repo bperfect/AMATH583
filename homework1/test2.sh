@@ -1,5 +1,7 @@
 
 # bash script to check for software 
+
+
 # Insert your name where indicated below.
 # Also insert your name where instructed in the file test3.f90.
 # Then execute:
@@ -8,7 +10,7 @@
 #    $ bash test2.sh > test2output.txt
 
 echo 
-echo Code run by  **INSERT YOUR NAME HERE**
+echo Code run by Brad Perfect 
 echo Environment variable UWHPSC is $UWHPSC
 echo Environment variable MYHPSC is $MYHPSC
 

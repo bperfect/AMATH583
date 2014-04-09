@@ -3,6 +3,6 @@
 ! This code will be compiled and run when you execute the test2.sh script.
 
    program test
-	   print *, "Code run by  **INSERT YOUR NAME HERE**"
+	   print *, "Code run by  Brad Perfect"
        print *, "Successfully ran Fortran 90 program"
    end program test
