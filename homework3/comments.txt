@@ -1,0 +1,2 @@
+1. Missing reduction in main.f90 loop -5
+2. !# is incorrect syntax for open mp loops. Also the method of parallelizing method 2 does not actually parallelize the work it just spawns multiple threads all doing the same actions. -25
