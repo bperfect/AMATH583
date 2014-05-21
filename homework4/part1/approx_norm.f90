@@ -1,5 +1,3 @@
-! This sample solution to Homework 3 has only one method,
-! to use as a starting point for Homework 4, part 1.
 
 module approx_norm
 
@@ -70,7 +68,7 @@ contains
         ratio = axnorm/xnorm
         max_ratio = max(max_ratio, ratio)
     enddo
-!Combinr results to get a final answer
+!Combine results to get a final answer
     !$omp critical
     anorm = max(anorm,max_ratio)
     !$omp end critical

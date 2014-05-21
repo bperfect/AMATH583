@@ -1,7 +1,7 @@
 
 OBJECTS = random_util.o gamblers.o main2.o
 #gamblers_r_array.o instead of gamblers
-#FFLAGS = -g -Wall -fbounds-check -ffpe-trap=zero,overflow,underflow,invalid 
+FFLAGS = -fopenmp -g -Wall -fbounds-check -ffpe-trap=zero,overflow,underflow,invalid 
 
 .PHONY: data test1 clean 
 

@@ -29,7 +29,7 @@ contains
     nsteps=0
     call random_number(rand)
 
-    do nsteps=0,max_steps-1
+    do nsteps=1,max_steps
         !Each iteration is one round of the game
         if (rand(nsteps)>p) then
             n1=n1+1
